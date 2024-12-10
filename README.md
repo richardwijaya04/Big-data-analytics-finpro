@@ -6,6 +6,7 @@ Proyek ini dilakukan untuk menganalisis data penjualan CV Afan Jaya Jember Indo 
 Ananta Mahardika Rachmat - 2602180821
 Richard Wijaya Harianto - 2602154930
 
+
 📌 Tujuan Proyek
 Menganalisis data penjualan selama 9 hari.
 Membuat prediksi penjualan selama 7 hari ke depan menggunakan Prophet dari Facebook.
