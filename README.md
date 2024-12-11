@@ -1,17 +1,24 @@
-# 📊 **Analisis dan Forecasting Penjualan CV Afan Jaya Jember Indo**
+# 📊 **Sales Analysis and Forecasting for CV Afan Jaya Jember Indo**
 
-## 📝 **Deskripsi Proyek**
+## 📝 **Project Description**
 
-Proyek ini dilakukan untuk menganalisis data penjualan CV Afan Jaya Jember Indo selama 9 hari. Kami menggunakan berbagai metode analisis data untuk mendapatkan wawasan dari data penjualan yang ada dan membuat prediksi penjualan 7 hari ke depan. Selain itu, kami menerapkan **Linear Regression** untuk memprediksi **Top 10 Produk Terlaris** yang diproyeksikan akan terjual dalam 7 hari mendatang.
+This project aims to analyze the sales data of CV Afan Jaya Jember Indo over a 9-day period. We employed various data analysis methods to derive insights from the existing sales data and forecast sales for the next 7 days. Additionally, we utilized **Linear Regression** to predict the **Top 10 Best-Selling Products** expected to be sold in the upcoming 7-day period.
 
-## 👥 **Anggota Kelompok**
+## 👥 **Team Members**
 
 - **Ananta Mahardika Rachmat** - 2602180821  
 - **Richard Wijaya Harianto** - 2602154930  
 
-## 📌 **Tujuan Proyek**
+## 📌 **Project Objectives**
 
-1. Menganalisis data penjualan selama 9 hari.  
-2. Membuat prediksi penjualan selama 7 hari ke depan menggunakan **Prophet** dari Facebook.  
-3. Memprediksi **Top 10 Produk Terlaris** untuk 7 hari ke depan menggunakan **Linear Regression**.  
+1. Conduct an in-depth analysis of sales data spanning 9 days.  
+2. Forecast sales for the upcoming 7 days using **Prophet** library.  
+3. Predict the **Top 10 Best-Selling Products** for the next 7 days using **Linear Regression**.  
 4. Menyajikan hasil analisis dan prediksi melalui visualisasi yang menarik dan informatif.
+
+## 🛠️ **Technologies Utilized**
+Python: The primary programming language for data analysis.
+Pandas: For data manipulation and analysis.
+Prophet: A library designed for time series forecasting.
+Scikit-learn: For implementing the Linear Regression model.
+Matplotlib & Seaborn: For creating insightful and visually appealing data visualizations.
