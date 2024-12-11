@@ -17,8 +17,9 @@ This project aims to analyze the sales data of CV Afan Jaya Jember Indo over a 9
 4. Menyajikan hasil analisis dan prediksi melalui visualisasi yang menarik dan informatif.
 
 ## 🛠️ **Technologies Utilized**
-Python: The primary programming language for data analysis.
-Pandas: For data manipulation and analysis.
-Prophet: A library designed for time series forecasting.
-Scikit-learn: For implementing the Linear Regression model.
-Matplotlib & Seaborn: For creating insightful and visually appealing data visualizations.
+
+1. Python: The primary programming language for data analysis.
+2. Pandas: For data manipulation and analysis.
+3. Prophet: A library designed for time series forecasting.
+4. Scikit-learn: For implementing the Linear Regression model.
+5. Matplotlib & Seaborn: For creating insightful and visually appealing data visualizations.
